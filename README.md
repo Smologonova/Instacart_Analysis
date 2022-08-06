@@ -18,4 +18,4 @@ This project uses Excel and the following Python tools/libraries:
 - Anaconda 3
 
 ## Result 
-[Instacart Basket Analysis Report]()
+[Instacart Basket Analysis Report](https://github.com/Smologonova/Instacart_Analysis/blob/main/Instacart_GitHub/05%20Sent%20to%20client/Report_Instacart.pdf)
