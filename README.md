@@ -22,3 +22,9 @@ This project uses Excel and the following Python tools/libraries:
 Main questions this analysis is trying to answer is what indicators can be used to predict customer ordering behaviour with regards to time, location and types of products. 
 - Loyal customers on average order every 6 days, where New and Regular customers every 18 and 12 respectively. Therefore, promotion could be focused on regular and new customers who placed the order after 2 weeks to encourage them to place the next order within 10 days, for example giving them a promotional coupon expires in 10 days.
 - The Middle and Affluent customers across all age groups make the major number of orders , Young and Middle aged customers with the Middle income level are the core of the customer base. To boost sales, the recommendation is to focus on middle level income from customer profile: young single and single parent and on Older Single and Older with dependents to promote items for the customers and their dependents.
+
+## Key learning experience
+ 
+- Run out of memory in RAM for a code execution is substantially reduced by converting data types, sampling data or restarting kernels 
+- A vast collection of libraries helps with exploring, cleaning large data sets and creating visualizations in a simple way
+- Deriving new variables and creating crosstabs give unlimited opportunities to find insights and communicate them via visualizations with different features for creating informative, customized, and appealing plots to present data in the most simple and effective way.
